@@ -1,0 +1,6 @@
+setup.py
+attendance_model.egg-info/PKG-INFO
+attendance_model.egg-info/SOURCES.txt
+attendance_model.egg-info/dependency_links.txt
+attendance_model.egg-info/requires.txt
+attendance_model.egg-info/top_level.txt
